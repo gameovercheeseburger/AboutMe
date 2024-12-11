@@ -7,7 +7,7 @@ const Page = () => {
                 <header className="text-center mb-8">
                     <h1 className="text-4xl font-extrabold text-blue-800">Patrik Santiago</h1>
                     <h2 className="text-2xl text-blue-600 mt-2">Software Engineer</h2>
-                    <p className="mt-2 text-gray-700">+1 587-438-2368 | Calgary, AB, Canada | patrikjurgen.santiago@gmail.com</p>
+                    <p className="mt-2 text-gray-700">Calgary, AB, Canada</p>
                     <p className="mt-2">
                         <a href="https://www.linkedin.com/in/patrik-j%C3%BCrgen-santiago/" className="text-blue-700 underline mr-4">LinkedIn</a>
                         <a href="https://github.com/gameovercheeseburger" className="text-blue-700 underline">GitHub</a>
